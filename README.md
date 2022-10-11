@@ -7,7 +7,7 @@
   <img src="https://media.discordapp.net/attachments/1028966378629242902/1029318178783899648/MOSHED-2022-10-11-8-1-28.gif">
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/710248890091438150?idleMessage=It%20was%20always%20me)](https://discord.com/users/710248890091438150)
+///[![Discord Presence](https://lanyard.cnrad.dev/api/710248890091438150?idleMessage=It%20was%20always%20me)](https://discord.com/users/710248890091438150)
 
 <h1 align="center">Main Langages</h1>
 
